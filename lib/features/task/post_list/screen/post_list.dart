@@ -16,6 +16,8 @@ class PostList extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: Text(
         'Post List',
+
+
         style: GoogleFonts.poppins(
             fontWeight: FontWeight.w600
         ),
